@@ -16,3 +16,9 @@
 ####  - Un banco (mueble
 ####  - Un librero lleno
 ####  - Unas escaleras de bajada
+
+### Ejemplo 1
+![screenshot](Ejemplo1.jpg)
+
+### Ejemplo 2
+![Screenshot](Ejemplo2.jpeg)
