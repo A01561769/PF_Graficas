@@ -18,7 +18,7 @@
 ####  - Unas escaleras de bajada
 
 ### Ejemplo 1
-![screenshot](Ejemplo 1.jpg)
+![screenshot](Ejemplo1.jpg)
 
 ### Ejemplo 2
-![Screenshot](Ejemplo 2.jpeg) 
+![Screenshot](Ejemplo2.jpeg) 
