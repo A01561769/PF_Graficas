@@ -15,6 +15,7 @@
 ####  - Una televisión con una consola.
 ####  - Un banco (mueble).
 ####  - Un librero lleno.
+####  - Un buró.
 ####  - Unas escaleras de bajada.
 
 ### Ejemplo 1
