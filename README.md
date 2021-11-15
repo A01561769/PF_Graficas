@@ -23,3 +23,7 @@
 
 ### Ejemplo 2
 ![Screenshot](Ejemplo2.jpeg) 
+
+### Créditos y referencias
+#### - Modelos y texturas :
+VIRTI. (2020). Voxel Furniture Free: 3D furniture. Unity Asset Store. Recuperado el 15 de noviembre del 2021, de https://assetstore.unity.com/packages/3d/props/furniture/voxel-furniture-free-170365
